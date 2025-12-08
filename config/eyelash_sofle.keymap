@@ -95,7 +95,7 @@
                 &trans     &trans           &trans           &trans           &trans           &trans                &mmv MOVE_DOWN      &trans      &kp MINUS       &kp EQUAL       &kp LBKT      &kp RBKT         &kp F12
                 &trans     &out OUT_USB     &out OUT_BLE     &trans           &trans           &trans                &mmv MOVE_LEFT      &kp LEFT    &kp DOWN        &kp UP          &kp RIGHT     &trans           &trans
                 &trans     &sys_reset       &trans           &bootloader      &trans           &trans                &mmv MOVE_RIGHT     &trans      &trans          &trans          &trans        &trans           &trans
-                &trans     &trans           &trans           &trans           &trans           &trans                &mkp LCLK           &trans      &trans          &trans          &trans        &trans
+                &trans     &trans           &trans           &trans           &trans           &trans                &kp  PSCRN          &trans      &trans          &trans          &trans        &trans
             >;
             display-name = "L-2";
             sensor-bindings = <&scroll_encoder>;
